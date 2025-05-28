@@ -12,5 +12,5 @@
     [<a href="https://github.com/parkertackley/concrete">Terminal Based Text Editor</a>] - A minimalist text editor written in C, built from scratch with raw terminal input handling and file I/O<br><br>
   </p>
   <br><br><br>
-  [![](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/parker-tackley-429959202/)
+<!--   [![](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/parker-tackley-429959202/) -->
 </div>
