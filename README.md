@@ -1,5 +1,5 @@
 <div align="center">
   <p>
-    Low level > everything else
+    Low level >
   </p>
 </div>
